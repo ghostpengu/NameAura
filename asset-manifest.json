@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghostpengu/NameAura.github.io/static/css/main.cb5bc3c3.css",
+    "main.js": "/ghostpengu/NameAura.github.io/static/js/main.6f5644ef.js",
+    "static/js/453.e74b379f.chunk.js": "/ghostpengu/NameAura.github.io/static/js/453.e74b379f.chunk.js",
+    "index.html": "/ghostpengu/NameAura.github.io/index.html",
+    "main.cb5bc3c3.css.map": "/ghostpengu/NameAura.github.io/static/css/main.cb5bc3c3.css.map",
+    "main.6f5644ef.js.map": "/ghostpengu/NameAura.github.io/static/js/main.6f5644ef.js.map",
+    "453.e74b379f.chunk.js.map": "/ghostpengu/NameAura.github.io/static/js/453.e74b379f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5bc3c3.css",
+    "static/js/main.6f5644ef.js"
+  ]
+}
